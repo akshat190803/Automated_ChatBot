@@ -1,4 +1,4 @@
-#Aautomated ChatBot
+# Automated ChatBot
 
 A new Flutter project.
 
